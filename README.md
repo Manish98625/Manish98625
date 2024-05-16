@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Manish98625
--As a seasoned software developer,laravel Developer with over 9 months of experiencce. I have a proven record in developming manitainable Websites. My Tehnichal Proficiency
+- 👋 Hi, I’m Manish Thakur
+  
+As a seasoned software developer,laravel Developer with over 9 months of experiencce. I have a proven record in developming manitainable Websites. My Tehnichal Proficiency
 in Php,Laravel,Coupled with my problem-solving skills and team collaboration abillitieshave led to significant improvments in system efficiency and User Engagement.Developed
 new skills for applicattion developing and desiegning,increasing team productivity by 25%. Collaborated with instructional Design team to create innovative learning experiences,
 improving user engagement by 30%. Highly proficient PhP,Laravel,Javascript,HTML,CSS,Rest Api,Aws,Sql demonstrated by seccesful project implementations. Worked with Laravel to
