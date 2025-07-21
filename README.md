@@ -10,9 +10,9 @@ Skills
 
 💻 Programming Languages: PHP, JavaScript,
 
-🚀 Frameworks: Laravel, React.js
+🚀 Frameworks: Laravel, React.js,CodeIgniter
 
-🛢️ Databases: MySQL, PostgreSQL
+🛢️ Databases: MySQL, PostgreSQL , MSSQL
 
 🛠️ Tools & Technologies: Git, Composer, NPM, Application Deployment
 
