@@ -1,31 +1,52 @@
-- 👋 Hi, I’m Manish Thakur
-  
-As a software developer,laravel Developer with over 2 year of experience. I have a proven record in developming manitainable Websites. My Tehnichal Proficiency
-in Php,Laravel,Coupled with my problem-solving skills and team collaboration abillitieshave led to significant improvments in system efficiency and User Engagement.Developed
-new skills for applicattion developing and desiegning,increasing team productivity by 25%. Collaborated with instructional Design team to create innovative learning experiences,
-improving user engagement by 30%. Highly proficient PhP,Laravel,Javascript,HTML,CSS,Rest Api,Aws,Sql demonstrated by seccesful project implementations. Worked with Laravel to
-Maintain and Manage the software which was already was on live server.
+# 👋 Hi, I’m Manish Thakur  
+### 💼 Software Engineer
 
-Skills
+## 💻 Programming Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-💻 Programming Languages: PHP
+## ⭐ Frontend Technologies
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
-⭐ Frontend Technologies: HTML5, CSS3,  Bootstrap,  JavaScript (ES6+),  jQuery
+## 🚀 Frameworks (Frontend & Backend)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EE0000?style=for-the-badge&logo=codeigniter&logoColor=white)
 
-🚀 Frameworks (Frontend & Backend):  React.js,  Livewire, Laravel, CodeIgniter
+## 🛢️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![SQLServer](https://img.shields.io/badge/SQLServer-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-🛢️ Databases: MySQL, PostgreSQL , MSSQL ,  SQLServer
+## 🛠️ Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-🛠️ Version Control:  Git
+## 🌐 Servers / Hosting
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FCC624?style=for-the-badge&logo=xampp&logoColor=black)
+![cPanel](https://img.shields.io/badge/cPanel-FB5000?style=for-the-badge&logo=cpanel&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-🌐	Servers / Hosting: Apache, Nginx, XAMPP, cPanel, Windows Server
+## 🛠️ Tools & Technologies
+![Composer](https://img.shields.io/badge/Composer-FFFFFF?style=for-the-badge&logo=composer&logoColor=black)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Zimbra](https://img.shields.io/badge/Zimbra-FF6D00?style=for-the-badge&logo=zimbra&logoColor=white)
 
-🛠️ Tools & Technologies: Composer, NPM, Application Deployment,Slack, Zimbra
+## 🌐 Other Skills
+![REST API](https://img.shields.io/badge/RESTful_API-0088CC?style=for-the-badge)
+![MVC Architecture](https://img.shields.io/badge/MVC-FFD700?style=for-the-badge)
+![TDD](https://img.shields.io/badge/Test-Driven_Development-6e5494?style=for-the-badge)
 
-🌐 Other: RESTful APIs, MVC Architecture, Test-Driven Development (TDD)
+---
 
-Contact Me
+## 📫 Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-thakur-865581282/)  
+📧 Email: sraj09231@gmail.com
 
-💼 LinkedIn : https://www.linkedin.com/in/manish-thakur-865581282/
-
-📧 Email: sraj09231@gmail.com.com
