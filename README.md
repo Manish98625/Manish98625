@@ -50,18 +50,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-thakur-865581282/)  
 📧 Email: sraj09231@gmail.com
 
----
-
-## 📊 GitHub Stats
-
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishthakur92865&show_icons=true&theme=radical&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishthakur92865&layout=compact&theme=radical)
-
----
-
-## 👁️ Visitors Count
-
-![Visitor Count](https://profile-counter.glitch.me/manishthakur92865/count.svg)
-
-](https://github.com/Manish98625)
