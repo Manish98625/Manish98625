@@ -8,13 +8,19 @@ Maintain and Manage the software which was already was on live server.
 
 Skills
 
-💻 Programming Languages: PHP, JavaScript,
+💻 Programming Languages: PHP
 
-🚀 Frameworks: Laravel, React.js,CodeIgniter
+⭐ Frontend Technologies: HTML5, CSS3,  Bootstrap,  JavaScript (ES6+),  jQuery
+
+🚀 Frameworks (Frontend & Backend):  React.js,  Livewire, Laravel, CodeIgniter
 
 🛢️ Databases: MySQL, PostgreSQL , MSSQL ,  SQLServer
 
-🛠️ Tools & Technologies: Git, Composer, NPM, Application Deployment
+🛠️ Version Control:  Git
+
+🌐	Servers / Hosting: Apache, Nginx, XAMPP, cPanel, Windows Server
+
+🛠️ Tools & Technologies: Composer, NPM, Application Deployment,Slack, Zimbra
 
 🌐 Other: RESTful APIs, MVC Architecture, Test-Driven Development (TDD)
 
