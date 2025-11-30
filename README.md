@@ -54,13 +54,13 @@
 
 ## 📊 GitHub Stats
 
-![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishthakur92&show_icons=true&theme=radical&count_private=true)
+![Manish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manishthakur92865&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishthakur92&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manishthakur92865&layout=compact&theme=radical)
 
 ---
 
 ## 👁️ Visitors Count
 
-![Visitor Count](https://profile-counter.glitch.me/manishthakur92/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/manishthakur92865/count.svg)
 
