@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Manish Thakur  
+[# 👋 Hi, I’m Manish Thakur  
 ### 💼 Software Engineer
 
 ## 💻 Programming Languages
@@ -64,3 +64,4 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/manishthakur92865/count.svg)
 
+](https://github.com/Manish98625)
