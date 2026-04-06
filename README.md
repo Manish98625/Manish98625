@@ -32,6 +32,7 @@
 ![XAMPP](https://img.shields.io/badge/XAMPP-FCC624?style=for-the-badge&logo=xampp&logoColor=black)
 ![cPanel](https://img.shields.io/badge/cPanel-FB5000?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ## 🛠️ Tools & Technologies
 ![Composer](https://img.shields.io/badge/Composer-FFFFFF?style=for-the-badge&logo=composer&logoColor=black)
